@@ -1,0 +1,1 @@
+"""Volunteer signup automation package."""
